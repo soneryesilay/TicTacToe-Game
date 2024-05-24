@@ -1,4 +1,4 @@
-# JavaScript ile Üç Kare Oyunu
+# JavaScript ile Üç Kare oyunu
 
 ## Proje İçeriği
 
