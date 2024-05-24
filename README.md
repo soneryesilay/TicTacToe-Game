@@ -1,4 +1,4 @@
-# JavaScript ile Tic Tac Toe oyunu
+# JavaScript ile Üç Kare Oyunu
 
 ## Proje İçeriği
 
